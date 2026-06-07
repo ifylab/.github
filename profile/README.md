@@ -6,7 +6,7 @@ Many of the early tools come out of AEC (architecture, engineering, construction
 
 It's early days; the portfolio will grow one tool at a time, in the open.
 
-Apache 2.0, DCO sign-off on contributions.
+Apache 2.0; contributions accepted under the same license.
 
 ## Projects
 
