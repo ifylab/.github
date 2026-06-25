@@ -7,7 +7,7 @@
 
 # .ify
 
-A small, growing set of focused automation tools — each does one narrow job well and closes a gap that keeps coming up in real work, building on existing open-source tools rather than reinventing them.
+growing set of focused agentic tools — each does one narrow job well and closes a gap that keeps coming up in real work, building on existing open-source tools rather than reinventing them.
 
 Many of the early tools come out of AEC (architecture, engineering, construction), but .ify isn't scoped to it.
 
