@@ -1,0 +1,6 @@
+# Local tooling and assistant config (not committed)
+.claude/
+CLAUDE.md
+
+# OS
+.DS_Store
